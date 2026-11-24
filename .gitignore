@@ -1,3 +1,5 @@
-
-employees.csv
+.env
+__pycache__/
+.venv/
+*.log
 employees.csv
